@@ -1,0 +1,13 @@
+{
+  "name": "dbjson-server",
+  "version": "1.0.0",
+  "description": "Express server that initializes a JSON DB file and exposes health checks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}

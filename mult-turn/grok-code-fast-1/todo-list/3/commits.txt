@@ -1,0 +1,53 @@
+491f46bfe2ecfc57b8e52dedfc5d9240734d8509 2026-05-02 00:09:23 -0300 Diegton Rodrigues
+5	5	src/App.tsx
+
+acb8dc172989e099c51cc31d163765fe0ef011f1 2026-05-02 00:08:05 -0300 Diegton Rodrigues
+43	4	src/App.tsx
+
+acc16fd2496cf073f012d5541fd57e3d08b871fa 2026-05-02 00:05:58 -0300 Diegton Rodrigues
+12	0	src/App.css
+57	15	src/App.tsx
+
+a22dfd8e430f584d6f00eb93abad91a00636308d 2026-05-02 00:02:26 -0300 Diegton Rodrigues
+50	2	src/App.tsx
+
+41ef9b6b2812ea148a69214cce23b207f30796f8 2026-05-01 23:59:44 -0300 Diegton Rodrigues
+41	0	src/App.css
+32	10	src/App.tsx
+
+875089b8ceabdebc6a692141b5b110796c10140c 2026-05-01 23:56:34 -0300 Diegton Rodrigues
+39	0	src/App.css
+31	1	src/App.tsx
+
+102fd87f9b60050e464e9d0cd8821fe820da8c39 2026-05-01 23:55:22 -0300 Diegton Rodrigues
+56	0	src/App.css
+44	2	src/App.tsx
+
+67091d03c78083551edb18b7373f97374b3a3a59 2026-05-01 23:53:58 -0300 Diegton Rodrigues
+15	0	src/App.css
+23	1	src/App.tsx
+
+00de4a0bea9dff8074995afdd719b90214258604 2026-05-01 23:52:36 -0300 Diegton Rodrigues
+2742	0	package-lock.json
+74	153	src/App.css
+80	111	src/App.tsx
+
+69aa58761e49d2b93bf67fd5b621c673053416a2 2026-05-01 23:51:57 -0300 Diegton Rodrigues
+24	0	.gitignore
+73	0	README.md
+22	0	eslint.config.js
+13	0	index.html
+30	0	package.json
+1	0	public/favicon.svg
+24	0	public/icons.svg
+184	0	src/App.css
+122	0	src/App.tsx
+-	-	src/assets/hero.png
+1	0	src/assets/react.svg
+1	0	src/assets/vite.svg
+111	0	src/index.css
+10	0	src/main.tsx
+25	0	tsconfig.app.json
+7	0	tsconfig.json
+24	0	tsconfig.node.json
+7	0	vite.config.ts

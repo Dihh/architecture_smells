@@ -1,0 +1,5 @@
+67cd6302928bb597675e655286a2a917502f1e98 2026-04-30 23:01:59 -0300 Diegton Rodrigues
+2	0	.gitignore
+827	0	package-lock.json
+15	0	package.json
+18	0	src/index.js

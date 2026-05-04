@@ -1,0 +1,40 @@
+1d97322785b77ee35ff9febb3d17842a8ef26ec9 2026-04-30 11:24:54 -0300 Diegton Rodrigues
+10	2	src/App.jsx
+
+73fe0097855b96e1b8adf75535d63f26b4b7c4c9 2026-04-30 11:22:46 -0300 Diegton Rodrigues
+93	0	src/App.jsx
+1	0	src/index.css
+
+0d715cb438bf4417f713b2f686fd708eb1bcf86f 2026-04-30 11:17:30 -0300 Diegton Rodrigues
+69	0	src/App.jsx
+25	1	src/index.css
+
+3a27e56541c609c2fe79c124499302570a57a520 2026-04-30 11:13:54 -0300 Diegton Rodrigues
+72	5	src/App.jsx
+
+8da8694f6807192ae6bad0fb05f1883223db4936 2026-04-30 11:08:13 -0300 Diegton Rodrigues
+83	11	src/App.jsx
+51	0	src/index.css
+
+e692241ccdff3e2f85a2d922ad4d933ca6d12544 2026-04-30 11:04:47 -0300 Diegton Rodrigues
+66	3	src/App.jsx
+47	0	src/index.css
+
+7949419caedcafa9beba36988cb56f83634686cd 2026-04-30 11:03:06 -0300 Diegton Rodrigues
+108	16	src/App.jsx
+67	0	src/index.css
+
+8bd2a8c43647c0bf0105498551c81240d4d5f771 2026-04-30 10:58:52 -0300 Diegton Rodrigues
+58	8	src/App.jsx
+56	0	src/index.css
+
+a0a48163a1e6f927a4211ccdf5ae550fa5b406c1 2026-04-30 10:57:19 -0300 Diegton Rodrigues
+4	0	.gitignore
+10	0	README.md
+12	0	index.html
+1677	0	package-lock.json
+19	0	package.json
+130	0	src/App.jsx
+190	0	src/index.css
+10	0	src/main.jsx
+6	0	vite.config.js

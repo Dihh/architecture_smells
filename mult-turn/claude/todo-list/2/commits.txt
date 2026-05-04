@@ -1,0 +1,32 @@
+3f23cdb6cf096c34677cfc91c60e91f4c5871439 2026-04-30 23:05:55 -0300 Diegton Rodrigues
+19	2	src/App.jsx
+
+1d27f9649518b240f0e70e8fced96de57640607e 2026-04-30 23:05:49 -0300 Diegton Rodrigues
+4	1	src/components/TaskItem.jsx
+
+9b79703f3ca01f5f953ace272a29ddbc0e4dfe91 2026-04-30 23:04:16 -0300 Diegton Rodrigues
+114	0	src/components/TaskItem.css
+59	0	src/components/TaskItem.jsx
+15	0	src/components/TaskList.css
+20	0	src/components/TaskList.jsx
+
+680a9d6d9b7cd1ba27970769ec77e4212f6ed6c7 2026-04-30 23:04:08 -0300 Diegton Rodrigues
+66	0	src/components/TaskForm.css
+58	0	src/components/TaskForm.jsx
+
+d1ad745f1e375e5df6975015e7f8fe39aa355f18 2026-04-30 23:04:04 -0300 Diegton Rodrigues
+12	0	src/App.css
+39	0	src/App.jsx
+
+3fab13dfce77f20597662ae3f3d78cbac73ac443 2026-04-30 23:03:58 -0300 Diegton Rodrigues
+62	0	src/index.css
+10	0	src/main.jsx
+
+8c4b5e98ebbd86a04d0e4b306e514ba3d70cfffe 2026-04-30 23:03:52 -0300 Diegton Rodrigues
+21	0	eslint.config.js
+13	0	index.html
+2428	0	package-lock.json
+27	0	package.json
+1	0	public/favicon.svg
+24	0	public/icons.svg
+7	0	vite.config.js

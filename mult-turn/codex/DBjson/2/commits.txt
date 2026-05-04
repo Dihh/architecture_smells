@@ -1,0 +1,31 @@
+cbd2b80a9f3f0198c96ed5ed6cfcefdab202e082 2026-04-30 12:21:16 -0300 Diegton Rodrigues
+204	1	index.js
+
+28c3f23b21ee114d4f02a310f03012a9521d5227 2026-04-30 12:19:00 -0300 Diegton Rodrigues
+288	8	index.js
+
+4d5429cd85e8a339d19790943ba13ad6c8248dd1 2026-04-30 12:16:22 -0300 Diegton Rodrigues
+77	9	index.js
+
+50b7e2c0dfb3c4b96d1aa1c8bfca29a414c24dd5 2026-04-30 12:14:27 -0300 Diegton Rodrigues
+92	4	index.js
+
+a42638e7b195dc9222eb1f01c3ae015fa0c9bd83 2026-04-30 12:11:47 -0300 Diegton Rodrigues
+69	6	index.js
+
+d34037052ed8cb2a925ef58cc9c457be94501530 2026-04-30 12:10:23 -0300 Diegton Rodrigues
+33	6	index.js
+
+c4cf1a0dec053b48744fa98780f0bdb03a2cf4b3 2026-04-30 12:09:19 -0300 Diegton Rodrigues
+97	5	index.js
+144	1	package-lock.json
+3	1	package.json
+
+5315f9c418cbc02e388aee61d354bf61617740a4 2026-04-30 12:07:25 -0300 Diegton Rodrigues
+177	1	index.js
+
+c4a5f19edef27417b80b82cf4cb9a5ee0fdc0c2f 2026-04-30 12:06:07 -0300 Diegton Rodrigues
+5	0	.gitignore
+42	0	index.js
+827	0	package-lock.json
+16	0	package.json

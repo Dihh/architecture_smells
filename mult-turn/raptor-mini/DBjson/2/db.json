@@ -1,0 +1,46 @@
+{
+  "_users": [
+    {
+      "id": "mollxy9z-gz5tfhjh",
+      "username": "admin",
+      "role": "admin",
+      "passwordHash": "c0055ee6d43a334b5dc8db3a3cf802e5a3560bf568fee5ce7b11516eb793ab9dea46ad4732782e99e9c55b4e2f161787bca90492330f50e354bed508774ab88a",
+      "passwordSalt": "e38387ef65b005dba3254c50c47b7da9"
+    }
+  ],
+  "_teams": [],
+  "fruits": [
+    {
+      "name": "apple",
+      "color": "red",
+      "age": 5,
+      "id": "mollxyd0-kxsa2tna",
+      "ownerId": "mollxy9z-gz5tfhjh",
+      "createdAt": "2026-04-30T14:57:11.988Z"
+    },
+    {
+      "name": "banana",
+      "color": "yellow",
+      "age": 3,
+      "id": "mollxyd4-2r12jykx",
+      "ownerId": "mollxy9z-gz5tfhjh",
+      "createdAt": "2026-04-30T14:57:11.992Z"
+    },
+    {
+      "name": "avocado",
+      "color": "green",
+      "age": 2,
+      "id": "mollxyd9-y1siv7rd",
+      "ownerId": "mollxy9z-gz5tfhjh",
+      "createdAt": "2026-04-30T14:57:11.997Z"
+    },
+    {
+      "name": "berry",
+      "color": "blue",
+      "age": 1,
+      "id": "mollxydd-x5t314ar",
+      "ownerId": "mollxy9z-gz5tfhjh",
+      "createdAt": "2026-04-30T14:57:12.001Z"
+    }
+  ]
+}

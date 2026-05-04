@@ -1,0 +1,16 @@
+{
+  "name": "oidc-provider",
+  "version": "1.0.0",
+  "description": "OIDC Provider with Express and SQLite3",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7",
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,58 @@
+.task-filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+
+.task-filters__btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+
+.task-filters__btn:hover {
+  color: var(--text);
+  border-color: var(--accent);
+}
+
+.task-filters__btn--active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.task-filters__btn--active:hover {
+  color: #fff;
+}
+
+.task-filters__btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.task-filters__count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 5px;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.12);
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.task-filters__btn--active .task-filters__count {
+  background: rgba(255, 255, 255, 0.25);
+}

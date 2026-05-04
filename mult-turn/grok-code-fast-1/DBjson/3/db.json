@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "Test User",
+      "id": 1,
+      "ownerId": 1,
+      "createdAt": "2026-05-02T19:27:26.906Z"
+    },
+    {
+      "name": "Changed by user3",
+      "sharedWithTeams": [
+        {
+          "teamId": 1,
+          "access": "write"
+        }
+      ],
+      "id": 2,
+      "ownerId": 3,
+      "createdAt": "2026-05-02T19:34:38.375Z",
+      "updatedAt": "2026-05-02T19:35:10.567Z"
+    },
+    {
+      "name": "concurrency test 1",
+      "id": 3,
+      "ownerId": 1,
+      "createdAt": "2026-05-02T19:46:40.630Z"
+    },
+    {
+      "name": "concurrency test 2",
+      "id": 4,
+      "ownerId": 1,
+      "createdAt": "2026-05-02T19:46:40.633Z"
+    },
+    {
+      "name": "patched 2",
+      "id": 5,
+      "ownerId": 1,
+      "createdAt": "2026-05-02T19:46:52.605Z",
+      "updatedAt": "2026-05-02T19:46:55.487Z"
+    }
+  ],
+  "teams": [],
+  "_users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "$2b$10$iBYARpeMTeXXQPo.YlCQ3eGK8Gye4pDfUQkOyJDTz0AJCVuPfYxmW",
+      "role": "admin",
+      "ownerId": 1,
+      "createdAt": "2026-05-02T19:27:26.907Z"
+    },
+    {
+      "id": 2,
+      "username": "user1",
+      "password": "$2b$10$XPZgGZinpFkYWqMeJgLEC.BJw9naWC619X.HAQNAa9Qj3bsSNcJWy",
+      "role": "admin",
+      "ownerId": 1,
+      "createdAt": "2026-05-02T19:27:26.907Z"
+    },
+    {
+      "id": 3,
+      "username": "user2",
+      "password": "$2b$10$ro0TkfhQofH70ijUT29QbOn3j.a5B8gYQDVPc/qGfK./EwZuT7qoS",
+      "role": "user",
+      "ownerId": 1,
+      "createdAt": "2026-05-02T19:30:28.606Z"
+    },
+    {
+      "id": 4,
+      "username": "user3",
+      "password": "$2b$10$YZPJYoa8oQbbl1qXnQpSTuEOmC51vQyYBWRJYjbzcuadmWptSM7aC",
+      "role": "user",
+      "ownerId": 1,
+      "createdAt": "2026-05-02T19:33:57.966Z"
+    }
+  ],
+  "_teams": []
+}

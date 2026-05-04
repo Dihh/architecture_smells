@@ -1,0 +1,23 @@
+43750677bb435a06f8dd64e02b24b5c8bdc7f3e6 2026-05-01 23:33:09 -0300 Diegton Rodrigues
+308	22	app.js
+60	0	db.js
+
+db8cacc390c807d8ab85023fdf23fc721682eb0a 2026-05-01 23:23:56 -0300 Diegton Rodrigues
+80	2	app.js
+10	0	db.js
+
+6cc34c692cf4be8302f138565a85fb3fd5015db5 2026-05-01 23:21:06 -0300 Diegton Rodrigues
+15	0	app.js
+
+515de75d20bd0b8e531d88f20c751abdbadc7655 2026-05-01 23:19:20 -0300 Diegton Rodrigues
+10	1	app.js
+76	0	keyManager.js
+
+e192e50f267e33f30eb7a66af3726292ee1c7627 2026-05-01 23:17:56 -0300 Diegton Rodrigues
+28	0	app.js
+116	0	db.js
+2315	0	package-lock.json
+
+0684831a80b691672863dd606b8b5c652a303ff1 2026-05-01 23:17:50 -0300 Diegton Rodrigues
+3	0	.gitignore
+13	0	package.json

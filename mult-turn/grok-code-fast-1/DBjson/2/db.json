@@ -1,0 +1,66 @@
+{
+  "_users": [
+    {
+      "id": "b0d252aa-5b69-4aea-bfa2-1cb0d4bb57ee",
+      "username": "admin",
+      "password": "pass",
+      "role": "admin"
+    },
+    {
+      "id": "e1718156-0cad-46a7-88bd-a3f9578f09a6",
+      "username": "user",
+      "password": "pass2",
+      "role": "admin"
+    },
+    {
+      "id": "fcdf49b8-829d-440d-be2a-2f839c02ce02",
+      "username": "user2",
+      "password": "pass2",
+      "role": "user"
+    }
+  ],
+  "_teams": [
+    {
+      "id": "c2b13073-6153-4b20-8c0f-31129bdae6be",
+      "name": "Team A",
+      "ownerId": "b0d252aa-5b69-4aea-bfa2-1cb0d4bb57ee",
+      "members": [
+        "b0d252aa-5b69-4aea-bfa2-1cb0d4bb57ee",
+        "fcdf49b8-829d-440d-be2a-2f839c02ce02"
+      ]
+    }
+  ],
+  "users": [],
+  "products": [
+    {
+      "name": "product1",
+      "id": "c0ca058d-ae32-4dd0-8e95-9e47269ef844"
+    },
+    {
+      "name": "modified by user2",
+      "sharedWith": [
+        {
+          "userId": "fcdf49b8-829d-440d-be2a-2f839c02ce02",
+          "access": "write"
+        }
+      ],
+      "id": "6641c860-49d8-43be-9378-d86ebcb29703",
+      "ownerId": "b0d252aa-5b69-4aea-bfa2-1cb0d4bb57ee",
+      "createdAt": "2026-04-30T02:47:43.073Z",
+      "updatedAt": "2026-04-30T02:48:31.142Z"
+    },
+    {
+      "name": "modified team by user2",
+      "sharedWithTeams": [
+        {
+          "teamId": "c2b13073-6153-4b20-8c0f-31129bdae6be",
+          "access": "write"
+        }
+      ],
+      "id": "65275ab3-da8e-4629-89af-95a3ab91fc95",
+      "ownerId": "b0d252aa-5b69-4aea-bfa2-1cb0d4bb57ee",
+      "createdAt": "2026-04-30T02:50:17.291Z",
+      "updatedAt": "2026-04-30T02:50:28.274Z"
+    }
+  ]
+}

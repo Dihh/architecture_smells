@@ -1,0 +1,39 @@
+d37430b7c195dbe4086bd40e0f5abddc16f3e58b 2026-04-30 13:11:25 -0300 Diegton Rodrigues
+5	5	src/styles.css
+
+45965d38c47cf01ef4d622bb8422e6ada8bf8f16 2026-04-30 13:04:42 -0300 Diegton Rodrigues
+88	0	src/App.jsx
+
+d366b22d41ebc49c2e04e9a8f74f4c7a395754f0 2026-04-30 13:03:01 -0300 Diegton Rodrigues
+76	0	src/App.jsx
+28	3	src/styles.css
+
+8bd50ada985cc6014b998745e1934e1299bc424e 2026-04-30 13:01:36 -0300 Diegton Rodrigues
+103	26	src/App.jsx
+
+f17a2df1cc4dc774870476451c437d958850dcd6 2026-04-30 12:59:23 -0300 Diegton Rodrigues
+107	6	src/App.jsx
+62	0	src/styles.css
+
+dee035e1f137835c5dd7bec70840efa096def4c2 2026-04-30 12:57:58 -0300 Diegton Rodrigues
+100	3	src/App.jsx
+54	0	src/styles.css
+
+4282834728cd23be9b48244689635fd45e4a24c1 2026-04-30 12:56:55 -0300 Diegton Rodrigues
+108	10	src/App.jsx
+75	5	src/styles.css
+
+c97744f66817880bbd125dfd934de4946b03ccec 2026-04-30 12:55:35 -0300 Diegton Rodrigues
+42	5	src/App.jsx
+26	2	src/styles.css
+
+601b01c1d45ba069ee48410dc335603261529c7c 2026-04-30 12:54:23 -0300 Diegton Rodrigues
+4	0	.gitignore
+33	0	eslint.config.js
+12	0	index.html
+2381	0	package-lock.json
+25	0	package.json
+150	0	src/App.jsx
+10	0	src/main.jsx
+213	0	src/styles.css
+6	0	vite.config.js

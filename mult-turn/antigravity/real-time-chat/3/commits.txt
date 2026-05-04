@@ -1,0 +1,28 @@
+452dd7f6527da4cdea352fc6646a4c9827810326 2026-05-03 00:58:39 -0300 Diegton Rodrigues
+1	0	.gitignore
+-	-	chat.db
+
+617759d1cb468206f49aeae6e20cb93c36261ff5 2026-05-03 00:58:33 -0300 Diegton Rodrigues
+-	-	chat.db
+127	0	package-lock.json
+2	0	package.json
+13	4	src/db.js
+4	0	src/index.js
+61	0	src/routes/auth.js
+
+fb8650897be0dfbe3877700a982c18d06d7640fd 2026-05-03 00:57:34 -0300 Diegton Rodrigues
+698	1	package-lock.json
+3	1	package.json
+37	0	src/db.js
+11	3	src/index.js
+
+e379404235d26dd1fcf325b758ed0a34ff235dc6 2026-05-03 00:56:06 -0300 Diegton Rodrigues
+0	1	package.json
+
+fd24e8da8d6f036e727836a4fb757bc7163f9191 2026-05-03 00:55:44 -0300 Diegton Rodrigues
+26	0	src/index.js
+
+3014ab87ddf5adfb50b07a0c60df87e87665261f 2026-05-03 00:55:33 -0300 Diegton Rodrigues
+2	0	.gitignore
+867	0	package-lock.json
+20	0	package.json

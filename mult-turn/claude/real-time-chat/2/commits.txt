@@ -1,0 +1,17 @@
+824940eec6ba5f55a51706b8f69aca4fa3abeab6 2026-04-30 23:06:04 -0300 Diegton Rodrigues
+143	1	package-lock.json
+3	1	package.json
+3	0	src/index.js
+36	0	src/routes/auth.js
+
+2688199545f02fa10adb4ba3fcb364d5576e96c3 2026-04-30 23:04:28 -0300 Diegton Rodrigues
+427	0	package-lock.json
+1	0	package.json
+27	0	src/db.js
+1	0	src/index.js
+
+2d82544b013bcbf9ed8d75abe2aac8e4b62a6c5f 2026-04-30 23:01:55 -0300 Diegton Rodrigues
+2	0	.gitignore
+869	0	package-lock.json
+14	0	package.json
+18	0	src/index.js

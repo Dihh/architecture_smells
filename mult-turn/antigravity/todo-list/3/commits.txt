@@ -1,0 +1,54 @@
+702f22b5d741a890d30a155786d8677b407da614 2026-05-03 00:59:37 -0300 Diegton Rodrigues
+28	1	src/App.jsx
+31	0	src/components/TaskFilters.jsx
+1	1	src/components/TaskItem.jsx
+48	0	src/index.css
+
+80e1f81811d8596bdc9510fbf693701454d2ebb7 2026-05-03 00:58:21 -0300 Diegton Rodrigues
+6	3	src/components/TaskItem.jsx
+
+500919f3f7ce6852378c34b2457f42dcdfcee55d 2026-05-03 00:58:11 -0300 Diegton Rodrigues
+15	0	src/App.jsx
+73	6	src/components/TaskItem.jsx
+5	1	src/components/TaskList.jsx
+23	0	src/index.css
+
+d30bc28b66ed526d356263045c0421faab87e928 2026-05-03 00:57:14 -0300 Diegton Rodrigues
+9	2	src/App.jsx
+4	0	src/components/TaskItem.jsx
+1	3	src/utils.js
+
+dfc62eef656c1954cbbcb793b6965d52e6c87a68 2026-05-03 00:54:30 -0300 Diegton Rodrigues
+35	5	src/App.jsx
+46	0	src/components/TaskItem.jsx
+23	0	src/components/TaskList.jsx
+100	0	src/index.css
+9	0	src/utils.js
+
+d82a2b06a0e6ad00e2d11138ceffaf17d785f862 2026-05-03 00:53:59 -0300 Diegton Rodrigues
+65	0	src/components/TaskForm.jsx
+52	0	src/index.css
+
+a63e172d8a14f867dc383fc2bc0969bba1525049 2026-05-03 00:53:35 -0300 Diegton Rodrigues
+0	184	src/App.css
+6	114	src/App.jsx
+0	1	src/assets/react.svg
+68	87	src/index.css
+
+8b7efa7833a3f13dbb2c62b8ff07271b6374ebea 2026-05-03 00:53:03 -0300 Diegton Rodrigues
+24	0	.gitignore
+16	0	README.md
+21	0	eslint.config.js
+13	0	index.html
+2458	0	package-lock.json
+27	0	package.json
+1	0	public/favicon.svg
+24	0	public/icons.svg
+184	0	src/App.css
+122	0	src/App.jsx
+-	-	src/assets/hero.png
+1	0	src/assets/react.svg
+1	0	src/assets/vite.svg
+111	0	src/index.css
+10	0	src/main.jsx
+7	0	vite.config.js

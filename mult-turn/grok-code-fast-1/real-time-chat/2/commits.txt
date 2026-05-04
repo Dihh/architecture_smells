@@ -1,0 +1,55 @@
+8c234b6c72c4fa6912ae54c8e20d2645ae32e865 2026-04-30 00:41:52 -0300 Diegton Rodrigues
+0	92	client/src/App.jsx
+
+19a836cf508c7f46f5384154576260eb18a18e6d 2026-04-30 00:34:48 -0300 Diegton Rodrigues
+120	9	client/src/App.jsx
+
+b53cb47ece2627db02fbb431ef99676f17af49f1 2026-04-30 00:30:33 -0300 Diegton Rodrigues
+86	16	client/src/App.jsx
+
+6542ae58e941b99f2030bd01e9cff08d3dbe9536 2026-04-30 00:28:32 -0300 Diegton Rodrigues
+24	0	client/.gitignore
+16	0	client/README.md
+21	0	client/eslint.config.js
+13	0	client/index.html
+2428	0	client/package-lock.json
+27	0	client/package.json
+1	0	client/public/favicon.svg
+24	0	client/public/icons.svg
+184	0	client/src/App.css
+157	0	client/src/App.jsx
+-	-	client/src/assets/hero.png
+1	0	client/src/assets/react.svg
+1	0	client/src/assets/vite.svg
+111	0	client/src/index.css
+10	0	client/src/main.jsx
+10	0	client/vite.config.js
+
+0048079f969c39284b9d259daaf0e38168e285ab 2026-04-30 00:24:01 -0300 Diegton Rodrigues
+53	2	src/index.js
+
+e9dbd02f5da94d2426f902b8378d66cf318f3101 2026-04-30 00:21:34 -0300 Diegton Rodrigues
+23	1	package-lock.json
+2	1	package.json
+30	1	src/index.js
+
+428f943c09585ee4c32796f8d291fc030b7319fb 2026-04-30 00:20:15 -0300 Diegton Rodrigues
+-	-	chat.db
+40	0	src/index.js
+
+1159e2750333996fbce85e2416de513ae089b039 2026-04-30 00:19:15 -0300 Diegton Rodrigues
+-	-	chat.db
+275	43	package-lock.json
+2	0	package.json
+47	0	src/index.js
+
+f40a7e684adfc56e9c5f4d677da16e1fdf6efbe3 2026-04-30 00:16:46 -0300 Diegton Rodrigues
+1505	32	package-lock.json
+2	1	package.json
+21	0	src/index.js
+
+c7f940fd3c773a4b411c8acb94fb07dc91d4288d 2026-04-30 00:13:43 -0300 Diegton Rodrigues
+1	0	.gitignore
+869	0	package-lock.json
+13	0	package.json
+17	0	src/index.js

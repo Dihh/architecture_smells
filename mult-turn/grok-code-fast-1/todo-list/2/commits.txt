@@ -1,0 +1,51 @@
+6c1a83f3ce89b9f5baaa1d8570bdfa66f284035d 2026-04-30 00:35:19 -0300 Diegton Rodrigues
+43	0	src/App.jsx
+
+3d9b2cebd58a5a065b17f12808a1bd13bb7ede56 2026-04-30 00:32:26 -0300 Diegton Rodrigues
+16	0	src/App.css
+35	0	src/App.jsx
+
+2587c01f899118e09c569d6c33615103181befe9 2026-04-30 00:28:13 -0300 Diegton Rodrigues
+46	0	src/App.jsx
+
+1e90a06dd7d318ce36459f9cee3dca6fba19d6c9 2026-04-30 00:21:41 -0300 Diegton Rodrigues
+45	0	src/App.css
+38	9	src/App.jsx
+
+f7858994b16c9936ad2128f1b5232a1268ee5e52 2026-04-30 00:20:13 -0300 Diegton Rodrigues
+51	0	src/App.css
+47	1	src/App.jsx
+
+aec6cc043c683415d3941d049f0c24404ccbe5ce 2026-04-30 00:19:05 -0300 Diegton Rodrigues
+46	1	src/App.css
+44	2	src/App.jsx
+
+aa6256559b8cba0fcb5777485640da45c8008691 2026-04-30 00:16:42 -0300 Diegton Rodrigues
+32	4	src/App.css
+32	3	src/App.jsx
+
+ca51a36f1aa1354081b14e514be320521d356b1c 2026-04-30 00:14:41 -0300 Diegton Rodrigues
+9	0	src/App.css
+9	2	src/App.jsx
+
+288e5ecb5b90aa240bb151a75e872100f7ac3e6f 2026-04-30 00:14:17 -0300 Diegton Rodrigues
+2428	0	package-lock.json
+63	157	src/App.css
+63	111	src/App.jsx
+
+ef1d75c8f92d8db307048fb535596bdc3cc33152 2026-04-30 00:13:39 -0300 Diegton Rodrigues
+24	0	.gitignore
+16	0	README.md
+21	0	eslint.config.js
+13	0	index.html
+27	0	package.json
+1	0	public/favicon.svg
+24	0	public/icons.svg
+184	0	src/App.css
+122	0	src/App.jsx
+-	-	src/assets/hero.png
+1	0	src/assets/react.svg
+1	0	src/assets/vite.svg
+111	0	src/index.css
+10	0	src/main.jsx
+7	0	vite.config.js

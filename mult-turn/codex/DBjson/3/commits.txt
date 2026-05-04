@@ -1,0 +1,90 @@
+cf955655a76fbdbecf95bc10aed77c3b83c98f72 2026-05-02 10:35:37 -0300 Diegton Rodrigues
+161	1	src/index.js
+
+d1c05d20d8de21da61281fed1679e49c6115e474 2026-05-02 10:32:40 -0300 Diegton Rodrigues
+221	0	src/authRoutes.js
+80	15	src/index.js
+
+69ff09bc3775af8ad6834282957ec28ce7703308 2026-05-02 10:26:06 -0300 Diegton Rodrigues
+54	8	src/index.js
+
+14f5f0a973a602875bd322fb184663f871ef123f 2026-05-02 10:23:39 -0300 Diegton Rodrigues
+167	11	src/index.js
+
+0ef9cf488eabffa278e11f14644c0ac79e5deae9 2026-05-02 10:21:22 -0300 Diegton Rodrigues
+20	35	src/auth.js
+6	12	src/authRoutes.js
+2	0	src/index.js
+
+ed92ca6e57e43a0821381d49567e631477a381c0 2026-05-02 10:19:54 -0300 Diegton Rodrigues
+130	1	package-lock.json
+3	1	package.json
+47	52	src/authRoutes.js
+8	0	src/db.js
+17	5	src/index.js
+
+562a75e23625ca7fe43aa93edc2b85ad27af7b0e 2026-05-02 10:17:58 -0300 Diegton Rodrigues
+163	1	src/db.js
+107	2	src/index.js
+
+0a23c6aaba2418c332aa14afa5794b85aef30f5b 2026-05-02 10:15:36 -0300 Diegton Rodrigues
+3	858	package-lock.json
+3	9	package.json
+28	31	src/db.js
+8	39	src/index.js
+
+7fecb07d8b7a8d42fbe8cbca67ec765e9846f179 2026-05-02 01:01:32 -0300 Diegton Rodrigues
+5	12	client/src/App.jsx
+0	3	client/src/components/ChatPlaceholder.jsx
+117	0	client/src/components/ChatView.jsx
+31	0	client/src/components/MessageInput.jsx
+58	0	client/src/components/MessageList.jsx
+163	2	client/src/styles.css
+
+6c77c951c04d4d0488d5ec6b5fff6444af556316 2026-05-02 00:59:04 -0300 Diegton Rodrigues
+34	3	client/src/App.jsx
+27	4	client/src/components/AuthForm.jsx
+3	0	client/src/components/ChatPlaceholder.jsx
+20	0	client/src/lib/authApi.js
+35	0	client/src/lib/session.js
+5	0	client/src/styles.css
+
+aa872d195455e1305c8e1f7ea700250401e259df 2026-05-02 00:56:53 -0300 Diegton Rodrigues
+1	0	.gitignore
+12	0	client/index.html
+1703	0	client/package-lock.json
+18	0	client/package.json
+12	0	client/src/App.jsx
+80	0	client/src/components/AuthForm.jsx
+10	0	client/src/main.jsx
+115	0	client/src/styles.css
+14	0	client/vite.config.js
+
+90b57598646f1b649a8350dbd13e60c1cc6d76c0 2026-05-02 00:54:19 -0300 Diegton Rodrigues
+11	0	src/db.js
+3	2	src/index.js
+107	3	src/websocket.js
+
+11d7d0905a20a0d99386c8f66f5a5a1020124b32 2026-05-02 00:52:30 -0300 Diegton Rodrigues
+23	1	package-lock.json
+2	1	package.json
+6	1	src/index.js
+33	0	src/websocket.js
+
+d357fd5aad78b3824c3cc41c0bf73e57d73d3d31 2026-05-02 00:51:05 -0300 Diegton Rodrigues
+52	0	src/auth.js
+38	3	src/authRoutes.js
+
+53575b728a7a2864b6ac59ef833f6d82e98a75a1 2026-05-02 00:49:27 -0300 Diegton Rodrigues
+4	0	.gitignore
+807	1	package-lock.json
+5	1	package.json
+57	0	src/authRoutes.js
+28	0	src/db.js
+16	0	src/index.js
+
+0c385527d2768f03be2cc7e6c184cb5248c1afa6 2026-05-02 00:45:21 -0300 Diegton Rodrigues
+3	0	.gitignore
+870	0	package-lock.json
+17	0	package.json
+26	0	src/index.js

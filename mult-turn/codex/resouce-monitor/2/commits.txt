@@ -1,0 +1,36 @@
+abd63422f2f7ee7a6d8204173d34c54e817c9d06 2026-04-30 12:45:23 -0300 Diegton Rodrigues
+53	14	src/webSocketServer.js
+
+ce7ac58aa721f7c8340fc7130599d8c28550f9e0 2026-04-30 12:43:05 -0300 Diegton Rodrigues
+106	13	src/webSocketServer.js
+
+370ddee1d15d45422cb896da577d0bca1fd216d7 2026-04-30 12:41:12 -0300 Diegton Rodrigues
+11	0	src/metricsCollector.js
+48	8	src/webSocketServer.js
+
+35f7fd48d4b9971bc256a293612b67a262577133 2026-04-30 12:39:26 -0300 Diegton Rodrigues
+39	2	src/webSocketServer.js
+
+53554698bdee136a4567acbb66c9f4e817ce9de0 2026-04-30 12:38:08 -0300 Diegton Rodrigues
+25	3	package-lock.json
+2	1	package.json
+7	1	src/index.js
+51	0	src/webSocketServer.js
+
+cea44942b8b02111b8578ea04e4baa899496a31f 2026-04-30 12:36:49 -0300 Diegton Rodrigues
+12	14	src/index.js
+6	24	src/metricsCollector.js
+
+0b9ff0990fe292e0748c55dd7bc4af459e0475df 2026-04-30 12:35:30 -0300 Diegton Rodrigues
+10	0	src/index.js
+97	0	src/metricsCollector.js
+
+8f7791461d7ef165a23ebf844f08b65a2fbabac1 2026-04-30 12:33:26 -0300 Diegton Rodrigues
+12	0	src/index.js
+123	0	src/metricsCollector.js
+
+5b04a093b583d8628e6b65d3b34e4da58859e953 2026-04-30 12:32:01 -0300 Diegton Rodrigues
+3	0	.gitignore
+827	0	package-lock.json
+16	0	package.json
+23	0	src/index.js

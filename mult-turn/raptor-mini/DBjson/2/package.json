@@ -1,0 +1,16 @@
+{
+  "name": "dbjson-server",
+  "version": "1.0.0",
+  "description": "Simple Express server that loads JSON DB from DB_PATH",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}

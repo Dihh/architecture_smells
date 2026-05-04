@@ -1,0 +1,11 @@
+331df8a4a3ebde4dd5c19f31409a53363abedcf0 2026-04-30 10:58:21 -0300 Diegton Rodrigues
+1	0	.gitignore
+
+a8cf76ec24ec25cb0125a59c1dcf7e29a31dbfdc 2026-04-30 10:58:06 -0300 Diegton Rodrigues
+2	1	package.json
+46	0	src/index.js
+
+0c7def8ad316ee46ec8565fb5edad7cedb138071 2026-04-30 10:55:37 -0300 Diegton Rodrigues
+3	0	.gitignore
+14	0	package.json
+33	0	src/index.js

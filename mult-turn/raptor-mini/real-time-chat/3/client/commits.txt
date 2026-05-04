@@ -1,0 +1,38 @@
+8b41b27f3ec87be1330b236af8ad0710bcd02a4d 2026-05-01 23:32:45 -0300 Diegton Rodrigues
+2	0	client/.gitignore
+12	0	client/index.html
+1677	0	client/package-lock.json
+19	0	client/package.json
+16	0	client/src/App.jsx
+106	0	client/src/AuthForm.jsx
+89	0	client/src/index.css
+10	0	client/src/main.jsx
+9	0	client/vite.config.js
+
+2cfe6569f744e75e24aa5f7731a02cc1aa268346 2026-05-01 23:29:54 -0300 Diegton Rodrigues
+1	0	.gitignore
+
+bb8dba64a24fc39ad66d7922a445765efc92f863 2026-05-01 23:26:08 -0300 Diegton Rodrigues
+23	1	package-lock.json
+2	1	package.json
+70	3	src/auth.js
+5	1	src/index.js
+42	0	src/ws.js
+
+9c16c2e8a81413f15cef87893694f759d6baf8bb 2026-05-01 23:21:57 -0300 Diegton Rodrigues
+114	0	package-lock.json
+2	0	package.json
+61	0	src/auth.js
+3	0	src/index.js
+
+78bd518f8d7539b84964222fc5d569f3b89e92f8 2026-05-01 23:19:47 -0300 Diegton Rodrigues
+1505	32	package-lock.json
+2	1	package.json
+48	0	src/db.js
+3	0	src/index.js
+
+d7ea96599d2cf158d2fad8a3efa11aacab650af9 2026-05-01 23:17:39 -0300 Diegton Rodrigues
+1	0	.gitignore
+869	0	package-lock.json
+13	0	package.json
+29	0	src/index.js

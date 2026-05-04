@@ -1,0 +1,92 @@
+5aaf472c0441e972a265286fd1cf9028095be34c 2026-05-02 00:47:22 -0300 Diegton Rodrigues
+51	1	src/App.css
+
+c0af181418562f42b287ab30d4ecfe4d7e8ea76e 2026-05-02 00:47:22 -0300 Diegton Rodrigues
+7	0	src/TaskForm.jsx
+
+28857f0bf5f1857ef0fb3d3d0924b14804b50df2 2026-05-02 00:42:36 -0300 Diegton Rodrigues
+114	47	src/TaskList.jsx
+
+1dd71d038f7670666ec2df039bc2a4ccb9115de3 2026-05-02 00:40:30 -0300 Diegton Rodrigues
+1	0	src/ActionLog.jsx
+29	0	src/App.css
+2	1	src/App.jsx
+
+b34d58279423b4d317f2e1c98d453a539ad8ca94 2026-05-02 00:40:30 -0300 Diegton Rodrigues
+68	3	src/TaskList.jsx
+
+5c75840e03b2356ac791043e841203ba6d92f8b3 2026-05-02 00:40:30 -0300 Diegton Rodrigues
+30	1	src/useTasks.js
+
+aa334f4a280dff58279284ede1ad8a5114ba0cbf 2026-05-02 00:37:40 -0300 Diegton Rodrigues
+2	0	src/ActionLog.jsx
+2	0	src/App.css
+
+02691120a8b3a641b89609de6d0bebec01a45cc4 2026-05-02 00:37:40 -0300 Diegton Rodrigues
+17	2	src/App.jsx
+
+d809c35b802aa8406b0c2ac4e146b04cc263ffb4 2026-05-02 00:37:40 -0300 Diegton Rodrigues
+52	13	src/useTasks.js
+
+304f3401b70069d4f86f60a826919cc1069645a8 2026-05-02 00:36:15 -0300 Diegton Rodrigues
+11	2	src/App.jsx
+18	12	src/useTasks.js
+
+0d620baa6d653286ad789b5940d5bb28d5b2b8a5 2026-05-02 00:36:15 -0300 Diegton Rodrigues
+36	0	src/ActionLog.jsx
+76	0	src/App.css
+
+c6011d030a98aa357c66a20c040680a034edadf4 2026-05-02 00:36:15 -0300 Diegton Rodrigues
+14	0	src/useLog.js
+
+7008cb01b8eac3525373fd12e7133b166ae85d05 2026-05-02 00:34:51 -0300 Diegton Rodrigues
+57	0	src/App.css
+29	1	src/App.jsx
+
+e8aa5d489ee614f8f265cb31e7a64e948fe74443 2026-05-02 00:34:51 -0300 Diegton Rodrigues
+28	0	src/TaskFilters.jsx
+
+e3a9e2d1e11833bd9664e3e68995c2d4b8fd0764 2026-05-02 00:33:57 -0300 Diegton Rodrigues
+65	0	src/App.css
+2	2	src/App.jsx
+127	40	src/TaskList.jsx
+
+b750b74fe6d58979b41132e40488a6eddbb620f4 2026-05-02 00:33:56 -0300 Diegton Rodrigues
+8	1	src/useTasks.js
+
+78691bedd7dd329d619887206fb9cb400e168a78 2026-05-02 00:31:48 -0300 Diegton Rodrigues
+19	0	src/App.css
+2	2	src/App.jsx
+15	5	src/TaskList.jsx
+
+a720c51a4df9a44ad6ab7dcfe3a4fea621595cf3 2026-05-02 00:31:43 -0300 Diegton Rodrigues
+31	7	src/useTasks.js
+
+1b8240fc30ef81a412603a26ce5a80cb5b367f1b 2026-05-02 00:30:10 -0300 Diegton Rodrigues
+24	0	.gitignore
+16	0	README.md
+21	0	eslint.config.js
+13	0	index.html
+2428	0	package-lock.json
+27	0	package.json
+1	0	public/favicon.svg
+24	0	public/icons.svg
+-	-	src/assets/hero.png
+1	0	src/assets/react.svg
+1	0	src/assets/vite.svg
+10	0	src/main.jsx
+7	0	vite.config.js
+
+54b89a453b08f848539c97bd93fee5bf5a9e7d09 2026-05-02 00:29:52 -0300 Diegton Rodrigues
+129	0	src/App.css
+16	0	src/App.jsx
+1	0	src/index.css
+
+3cd34530595917222464d4eb2eb99ed0cde28669 2026-05-02 00:29:47 -0300 Diegton Rodrigues
+41	0	src/TaskList.jsx
+
+172f3aac4c6c3a113e737551ba62f04825685952 2026-05-02 00:29:41 -0300 Diegton Rodrigues
+45	0	src/TaskForm.jsx
+
+6b90aec256dc81a2adf31fc8b22dcd03621e01fd 2026-05-02 00:29:35 -0300 Diegton Rodrigues
+38	0	src/useTasks.js
